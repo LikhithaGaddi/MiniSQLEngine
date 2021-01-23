@@ -1,6 +1,6 @@
 # Mini SQL Engine
 
-MiniSQLEngine can parse the SQl quries and execute them taking input from .csv files. Developed using Python.
+MiniSQLEngine can parse the SQl queries and execute them taking input from .csv files. Developed using Python.
 
 ### Dataset:
 
